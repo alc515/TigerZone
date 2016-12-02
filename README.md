@@ -1,2 +1,0 @@
-# TigerZone
-TigerZone Game
